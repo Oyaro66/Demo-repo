@@ -1,2 +1,3 @@
 # Application Demo
-## New changes about to be effected
+## Adding new changes
+ New changes about to be effected
